@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Aditya Mahajan - aka Skystone 👋
 
-## I'm a Student, Developer, Photgrapher and Teacher!
+## I'm a Student, Developer, Photographer and Teacher!
 - 🔭 I’m currently working on a improving my DS & Algo 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
