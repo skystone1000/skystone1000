@@ -1,66 +1,42 @@
-<!--
-**skystone1000/skystone1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Aditya Mahajan</h2>
+<p align="center">Android engineer at TIAA · Kotlin and offline-first apps · building toward distributed systems, robotics and ML systems</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### Hi there, I'm Aditya Mahajan - aka Skystone 👋
-
-## I'm a Student, Developer, Photographer and Teacher!
-- 🔭 I’m currently working on a improving my DS & Algo 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to teach and go out for capturing nature into snapshots : 
-[<img alt="Aditya Mahajan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
-
-### Connect with me:
-
-[<img align="left" alt="http://adityamahajan.ml/?i=1" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aditya Mahajan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Aditya Mahajan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aditya Mahajan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-<!--
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][]
--->
+<p align="center">
+  <a href="https://adityamahajan.in"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-adityamahajan.in-1f3a52?style=flat-square"></a>
+  <a href="https://www.youtube.com/@skystone1000"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-2.3k%2B%20subscribers-c4302b?style=flat-square&logo=youtube&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/adityamahajan123/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adityamahajan123-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/skystone1000/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-skystone1000-f89f1b?style=flat-square&logo=leetcode&logoColor=white"></a>
+</p>
 
 ---
 
-<img align="left" alt="skystone's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skystone1000&show_icons=true&hide_border=true" />
+#### 🛠️ What I work with
 
-[website]: http://adityamahajan.ml/?i=1
-[youtube]: https://www.youtube.com/channel/UCZP7e3tdxPUtY2hHnwx5_4w
-[instagram]: https://instagram.com/skystone1000
-[linkedin]: https://www.linkedin.com/in/adityamahajan123/
-[instagram2]: https://www.instagram.com/_still.hungry_/
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
+#### 🚀 Live projects
 
+<table>
+<tr>
+<td width="50%" valign="top"><b><a href="https://github.com/skystone1000/Smart-Calculator">Smart Calculator</a></b><br>My own Android app on Google Play: scientific mode, unit conversion across 12 categories, history.<br><a href="https://play.google.com/store/apps/details?id=com.skystone1000.calculator">Google Play →</a></td>
+<td width="50%" valign="top"><b><a href="https://github.com/skystone1000/DroidDeck">DroidDeck</a></b><br>Android interview prep in one zero-build page: 14 topics, fuzzy search, SVG diagrams.<br><a href="https://droid.adityamahajan.in/">Open →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><b><a href="https://github.com/skystone1000/Parity">Parity</a></b><br>Paste two JSON documents, get a categorised diff: structural, key, value or schema-level.<br><a href="https://parity.adityamahajan.in/">Open →</a></td>
+<td width="50%" valign="top"><b><a href="https://github.com/skystone1000/SpringDeck">SpringDeck</a></b><br>Interview-prep deck for Java and Spring Boot backend engineering.</td>
+</tr>
+</table>
+
+#### 🏆 From hackathons
+
+- **Top 8**, Tata Makerthon, Techfest IIT Bombay: [YOLO object detection](https://github.com/skystone1000/Python-Object-Detection-Techfest)
+- **Top 20**, Techkriti IIT Kanpur: [Raspberry Pi telemetry for an FSAE car](https://github.com/skystone1000/IoT-and-Data-logging)
+- **Smart India Hackathon**: [warehouse climate forecasting with ARIMA and LSTM](https://github.com/skystone1000/Warehouse-Climate-Monitoring-Prediction)
